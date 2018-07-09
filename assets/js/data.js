@@ -4,7 +4,7 @@ var sites = [
         keywords: '持续集成工具',
         image: 'assets/img/zentao.png',
         url: 'http://zentao.sdata.com',
-        desc: '禅道由青岛易软天创网络科技有限公司开发，国产开源项目管理软件。它集产品管理、项目管理、质量管理、文档管理、组织管理和事务管理于一体，是一款专业的研发项目管理软件，完整覆盖了研发项目管理的核心流程。禅道管理思想注重实效，功能完备丰富，操作简洁高效，界面美观大方，搜索功能强大，统计报表丰富多样，软件架构合理，扩展灵活，有完善的API可以调用。禅道，专注研发项目管理！',
+        desc: '禅道由青岛易软天创网络科技有限公司开发，国产开源项目管理软件。',
     },
     {
         name: 'Jenkins',
@@ -12,6 +12,20 @@ var sites = [
         image: 'assets/img/jenkins.png',
         url: 'http://jenkins.sdata.com',
         desc: 'Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能。',
+    },
+    {
+        name: 'JIRA',
+        keywords: '持续集成工具',
+        image: 'assets/img/cnpm.png',
+        url: 'http://jira.sdata.com',
+        desc: 'JIRA是Atlassian公司出品的项目与事务跟踪工具，被广泛应用于缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理等工作领域。',
+    },
+    {
+        name: 'Confluence',
+        keywords: 'wiki，内容管理以及分享平台',
+        image: 'assets/img/confluence.png',
+        url: 'http://wiki.sdata.com/',
+        desc: 'Confluence是一个专业的企业知识管理与协同软件，也可以用于构建企业wiki。',
     },
     {
         name: 'Gitlab代码仓库',
@@ -25,6 +39,6 @@ var sites = [
         keywords: 'Nexus - Maven依赖仓库',
         image: 'assets/img/nexus.png',
         url: 'http://nexus.sdata.com/nexus/#welcome',
-        desc: 'Nexus',
+        desc: 'Nexus, Maven仓库，提供jar包管理服务。',
     },
 ];
